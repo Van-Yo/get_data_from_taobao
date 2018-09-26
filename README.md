@@ -1,4 +1,4 @@
-# get_data_from_toabao
+# get_data_from_taobao
 **[refer from here](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/82836020)**<br/>
 ## 主要思路就是：<br/>
 ### 1.获取淘宝url规则<br/>
